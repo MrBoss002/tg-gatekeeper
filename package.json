@@ -1,0 +1,26 @@
+{
+  "name": "@MrBoss002/tg-gatekeeper",
+  "version": "1.0.0",
+  "description": "Universal Telegram Force-Subscribe middleware engine for Node.js (gramY, Telegraf, and native Telegram API)",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "force-subscribe",
+    "fsub",
+    "grammy",
+    "telegraf",
+    "tg-gatekeeper",
+    "gatekeeper"
+  ],
+  "author": "MrBoss002",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
