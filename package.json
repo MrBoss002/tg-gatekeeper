@@ -1,5 +1,5 @@
 {
-  "name": "@MrBoss002/tg-gatekeeper",
+  "name": "@mrboss002/tg-gatekeeper",
   "version": "1.0.0",
   "description": "Universal Telegram Force-Subscribe middleware engine for Node.js (gramY, Telegraf, and native Telegram API)",
   "main": "dist/index.js",
